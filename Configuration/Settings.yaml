@@ -39,7 +39,7 @@ Sitegeist:
 #        # if this is configured the rsync of the persistent resources is skipped
 #        # and instead resources are fetched and imported on the fly once read
 #        resourceProxy:
-#          baseUri: http://vour.server.tld
+#          baseUri: http://your.server.tld
 #          subdivideHashPathSegment: false
 #          curlOptions:
 #            CURLOPT_USERPWD: very:secure
